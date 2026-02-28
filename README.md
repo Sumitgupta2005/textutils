@@ -1,6 +1,6 @@
 # ✨ TextUtils – Smart Text Utility Web App
 
-![TextUtils Screenshot](./screenshot.png)
+![TextUtils Screenshot](https://github.com/Sumitgupta2005/textutils/blob/b9001645ba8a2946a270427a7283378e1b1c49e8/Home-Dark.png)
 
 > A fast, lightweight and powerful React-based text utility web app to analyze and transform your text instantly.
 
@@ -40,7 +40,9 @@
 
 ### 🏠 Home Page
 
-![Home Screenshot](./screenshot.png)
+![Home Page](https://github.com/Sumitgupta2005/textutils/blob/b9001645ba8a2946a270427a7283378e1b1c49e8/Home%20(2).png)
+![Home Page](https://github.com/Sumitgupta2005/textutils/blob/b9001645ba8a2946a270427a7283378e1b1c49e8/About.png)
+![Home Page](https://github.com/Sumitgupta2005/textutils/blob/b9001645ba8a2946a270427a7283378e1b1c49e8/About-dark.png)
 
 ---
 
